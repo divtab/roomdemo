@@ -17,7 +17,7 @@ import com.example.roomdemo.db.UseEntity
 import java.util.EnumSet.of
 
 
-//hello world git test
+//hello world git test next
 class MainActivity : AppCompatActivity() {
 
     lateinit var recyclerViewAdapter: RecyclerViewAdaptor
